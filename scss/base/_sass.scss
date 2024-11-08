@@ -1,0 +1,44 @@
+/* FUNCIONALIDADES */
+
+/*! VARIABLES */
+$color-principal: red;
+$color-secundario: white;
+
+
+/*! LISTAS */
+$colores: red, white, black, blue, tomato;
+$font-size: 12px, 24px, 48px, 94px;
+
+
+/*! OPERACIONES */ // (+ - * /)
+$ancho: 720px;
+$alto: 400px;
+
+
+/*! MAPAS */
+
+$boton:(
+    btn-fondo: black,
+    btn-borde: 3px solid black,
+    btn-text: white,
+)
+
+
+/*! EXTENDS */
+
+/*! MIXIN
+* mixin flex ($flex, $justify, $align){
+    display: $flex;
+    justify-content: $justify;
+    align-items: $align;
+}
+
+.contenedor{
+    @include flex(flex, space-between, center )
+} */
+
+
+
+
+
+
